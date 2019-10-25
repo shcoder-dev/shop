@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98d8fdfc-0bcd-4549-833f-ce2ebc1118c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/shop/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/shop/config.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571977508646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create .gitignore">
+      <created>1571979461034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571979461034</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pycharm auth" />
-    <option name="LAST_COMMIT_MESSAGE" value="pycharm auth" />
+    <MESSAGE value="create .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="create .gitignore" />
   </component>
 </project>
